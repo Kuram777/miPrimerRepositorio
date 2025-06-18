@@ -6,4 +6,4 @@ Hola mi primer redaccion desde el local v2
 Un commit mas desde mi Github
 Un commit mas desde mi Github v2
 Hola respodiendo tu commit desde el local
-Una actualizacion mas
+Una actualizacion mas con git fetch
